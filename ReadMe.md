@@ -51,3 +51,10 @@ We welcome builders, traders, and visionaries to be part of the Kawala revolutio
 ---
 
 > ⚠️ Disclaimer: Kawala is a decentralized project. Do your own research (DYOR) before investing.
+
+## 🧬 Token Details
+
+- **Name:** Kawala
+- **Symbol:** KWLA
+- **Network:** Solana
+- **Mint Address:** Htv1iyZpGdXzguoyARZLZq863m8a1mZpgYDYiYEhpump
