@@ -65,8 +65,7 @@ KWLA will be used for:
 - Twitter: [@kwlatoken](https://twitter.com/kwlatoken)  
 - Discord: Coming Soon  
 - Website: Coming Soon  
-- Mint Address: `[YourMintAddressHere]`
-
+- Mint Address: Htv1iyZpGdXzguoyARZLZq863m8a1mZpgYDYiYEhpump
 ---
 
 > This whitepaper is a live document and may be updated based on community feedback and roadmap evolution.
